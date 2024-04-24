@@ -5,7 +5,7 @@
 We propose Hy-DNeRF, a dynamic scene view synthesis method with multi-resolution hybrid explicit representation, which achieves a balance between storage space and reconstruction efficiency and improves reconstruction quality through hybrid feature representation and adaptive deformation modules. This is the code repository for our paper.
 ![fig-11](https://github.com/CHenYYff/Hy-DNeRF/assets/117790613/a989fd43-be63-4984-ae66-238edec55604)
 
-Reconstruction of dynamic scenes, more information can be found in our paper
+Reconstruction of dynamic scenes, more information can be found in our paper.
 
 https://github.com/CHenYYff/Hy-DNeRF/assets/117790613/c6163045-4346-40c0-8885-8b29a93e2f3c
 

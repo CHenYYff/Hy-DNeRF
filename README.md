@@ -6,6 +6,7 @@ We propose Hy-DNeRF, a dynamic scene view synthesis method with multi-resolution
 ![fig-11](https://github.com/CHenYYff/Hy-DNeRF/assets/117790613/a989fd43-be63-4984-ae66-238edec55604)
 
 Reconstruction of dynamic scenes, more information can be found in our paper.
+![image](https://github.com/CHenYYff/Hy-DNeRF/assets/117790613/59cdbd91-a864-47f2-a2cc-d1c1cbad7b17)
 
 https://github.com/CHenYYff/Hy-DNeRF/assets/117790613/c6163045-4346-40c0-8885-8b29a93e2f3c
 
